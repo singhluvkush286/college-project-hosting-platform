@@ -1,0 +1,21 @@
+.landing-page-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .half-section {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  .half-section h1 {
+    text-align: center;
+  }
+  
+  .half-section button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
